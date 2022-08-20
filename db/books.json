@@ -1,0 +1,20 @@
+[
+  {
+    "title": "My First Book By",
+    "author": "Chidozie Inya",
+    "year": 2018,
+    "id": 1
+  },
+  {
+    "title": "My Second Book By",
+    "author": "Chidozie Inya",
+    "year": 2019,
+    "id": 2
+  },
+  {
+    "title": "My Third Book By",
+    "author": "Chidozie Inya",
+    "year": 2020,
+    "id": 3
+  }
+]
